@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/currency-exchange-rates/static/css/main.7502548c.chunk.css",
-    "main.js": "/currency-exchange-rates/static/js/main.57e42ea9.chunk.js",
-    "main.js.map": "/currency-exchange-rates/static/js/main.57e42ea9.chunk.js.map",
+    "main.js": "/currency-exchange-rates/static/js/main.9cd7b1e8.chunk.js",
+    "main.js.map": "/currency-exchange-rates/static/js/main.9cd7b1e8.chunk.js.map",
     "runtime~main.js": "/currency-exchange-rates/static/js/runtime~main.4e14d010.js",
     "runtime~main.js.map": "/currency-exchange-rates/static/js/runtime~main.4e14d010.js.map",
-    "static/js/2.34d27849.chunk.js": "/currency-exchange-rates/static/js/2.34d27849.chunk.js",
-    "static/js/2.34d27849.chunk.js.map": "/currency-exchange-rates/static/js/2.34d27849.chunk.js.map",
+    "static/css/2.ff9ea1f9.chunk.css": "/currency-exchange-rates/static/css/2.ff9ea1f9.chunk.css",
+    "static/js/2.9d5a1639.chunk.js": "/currency-exchange-rates/static/js/2.9d5a1639.chunk.js",
+    "static/js/2.9d5a1639.chunk.js.map": "/currency-exchange-rates/static/js/2.9d5a1639.chunk.js.map",
     "index.html": "/currency-exchange-rates/index.html",
-    "precache-manifest.533d1559abd892e4cdf80b4d8847d8a5.js": "/currency-exchange-rates/precache-manifest.533d1559abd892e4cdf80b4d8847d8a5.js",
+    "precache-manifest.847a72b742bbbc6218410ed3d1500b4e.js": "/currency-exchange-rates/precache-manifest.847a72b742bbbc6218410ed3d1500b4e.js",
     "service-worker.js": "/currency-exchange-rates/service-worker.js",
+    "static/css/2.ff9ea1f9.chunk.css.map": "/currency-exchange-rates/static/css/2.ff9ea1f9.chunk.css.map",
     "static/css/main.7502548c.chunk.css.map": "/currency-exchange-rates/static/css/main.7502548c.chunk.css.map"
   }
 }
