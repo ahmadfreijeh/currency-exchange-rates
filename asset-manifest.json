@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/currency-exchange-rates/static/css/main.2cce8147.chunk.css",
-    "main.js": "/currency-exchange-rates/static/js/main.06fc9fae.chunk.js",
-    "main.js.map": "/currency-exchange-rates/static/js/main.06fc9fae.chunk.js.map",
+    "main.css": "/currency-exchange-rates/static/css/main.7502548c.chunk.css",
+    "main.js": "/currency-exchange-rates/static/js/main.57e42ea9.chunk.js",
+    "main.js.map": "/currency-exchange-rates/static/js/main.57e42ea9.chunk.js.map",
     "runtime~main.js": "/currency-exchange-rates/static/js/runtime~main.4e14d010.js",
     "runtime~main.js.map": "/currency-exchange-rates/static/js/runtime~main.4e14d010.js.map",
-    "static/js/2.b941de56.chunk.js": "/currency-exchange-rates/static/js/2.b941de56.chunk.js",
-    "static/js/2.b941de56.chunk.js.map": "/currency-exchange-rates/static/js/2.b941de56.chunk.js.map",
+    "static/js/2.34d27849.chunk.js": "/currency-exchange-rates/static/js/2.34d27849.chunk.js",
+    "static/js/2.34d27849.chunk.js.map": "/currency-exchange-rates/static/js/2.34d27849.chunk.js.map",
     "index.html": "/currency-exchange-rates/index.html",
-    "precache-manifest.00f1740195283227ddc2d359774e1c18.js": "/currency-exchange-rates/precache-manifest.00f1740195283227ddc2d359774e1c18.js",
+    "precache-manifest.533d1559abd892e4cdf80b4d8847d8a5.js": "/currency-exchange-rates/precache-manifest.533d1559abd892e4cdf80b4d8847d8a5.js",
     "service-worker.js": "/currency-exchange-rates/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/currency-exchange-rates/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/currency-exchange-rates/static/media/logo.5d5d9eef.svg"
+    "static/css/main.7502548c.chunk.css.map": "/currency-exchange-rates/static/css/main.7502548c.chunk.css.map"
   }
 }
