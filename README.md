@@ -1,5 +1,6 @@
 # currency-exchange-rates
 
-## Build with ReactJS
+## About
+Currency exchange rates built with ReactJs, Evergreen UI kit and [exchangeratesapi](https://exchangeratesapi.io).
 
-## Demo Link [GitHub Pages](https://ahmadfreijeh.github.io/currency-exchange-rates/).
+## [Demo Link](https://ahmadfreijeh.github.io/currency-exchange-rates/).
